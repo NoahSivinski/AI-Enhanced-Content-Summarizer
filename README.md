@@ -1,12 +1,5 @@
 # Project AI Summarizer App
-
-<<<<<<< HEAD
-Welcome to the Project AI Summarizer App repository! This repository contains the source code for an amazing AI-powered text summarization application. The application utilizes state-of-the-art natural language processing techniques to automatically generate concise summaries of lengthy texts, making it incredibly useful for tasks such as document analysis, research, and content curation.
-=======
-![screen_shot](https://i.imgur.com/Mz7b5HO.png)
-
 This repository is for an AI-Enhanced Content Summarizer. The application utilizes state-of-the-art natural language processing techniques to automatically generate concise summaries of lengthy texts, making it incredibly useful for tasks such as document analysis, research, and content curation.
->>>>>>> d032619a2bbe8c9e4ff4818381fdfea4a0e12f2b
 
 ## Introduction
 The Project AI Summarizer App is a powerful tool that harnesses the capabilities of AI to provide efficient and accurate text summarization. It utilizes advanced natural language processing models to analyze the input text and generate a condensed summary that captures the essential information.
